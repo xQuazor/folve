@@ -1,6 +1,6 @@
 # Folve
 
-Concept Design Showcase for fitness jewellery app
+Concept Design for fitness tracker IOS app.
 
 ## Overview
 
