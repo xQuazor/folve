@@ -1,4 +1,4 @@
-# folve
+# Folve
 
 Concept Design Showcase for fitness jewellery app
 
