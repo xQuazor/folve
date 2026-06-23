@@ -10,18 +10,18 @@ These are concept designs in 3 styles for a piece of wearable smart jewellery, t
 
 ### Hippie Style
 
-![Hippie Design 1](hippie_1.png)
+<img src="hippie_1.png" width="300"/>
 
-![Hippie Design 2](hippie_2.png)
+<img src="hippie_2.png" width="300"/>
 
 ### Simple Style
 
-![Simple Design 1](simple_1.png)
+<img src="simple_1.png" width="300"/>
 
-![Simple Design 2](simple_2.png)
+<img src="simple_2.png" width="300"/>
 
 ### Sophisticated Style
 
-![Sophisticated Design 1](sophisticated_1.png)
+<img src="sophisticated_1.png" width="300"/>
 
-![Sophisticated Design 2](sophisticated_2.png)
+<img src="sophisticated_2.png" width="300"/>
