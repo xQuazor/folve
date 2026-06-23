@@ -19,3 +19,7 @@ These are concept designs in 3 styles for a piece of wearable smart jewellery, t
 ### Sophisticated Style
 
 <img src="sophisticated_1.png" width="300"/> <img src="sophisticated_2.png" width="300"/>
+
+## Design Notes
+
+No AI was used in the design of these concepts. Most of these assets are custom made, with all lighting effects created from scratch. This project was developed following Apple's liquid glass announcement. Since no designer kit was released at that time, the glass effect navigation bar was custom made to replicate Apple's marketing campaign aesthetic.
